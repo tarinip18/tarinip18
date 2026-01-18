@@ -1,4 +1,4 @@
-##👋 About Me
+👋 About Me
 
 I’m a B.Tech AIML student who believes in learning by building.
 I enjoy creating meaningful projects, guiding and supporting others, and continuously improving my skills.
