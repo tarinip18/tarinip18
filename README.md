@@ -1,4 +1,10 @@
-## Hi there 👋
+##👋 About Me
+
+I’m a B.Tech AIML student who believes in learning by building.
+I enjoy creating meaningful projects, guiding and supporting others, and continuously improving my skills.
+Curiosity drives me to explore technology, new ideas, and creative problem-solving.
+
+Beyond tech, I have a deep interest in astrology, love traveling, and enjoy meeting new people to gain fresh perspectives.
 
 <!--
 **tarinip18/tarinip18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
